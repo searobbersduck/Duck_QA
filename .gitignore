@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+xinhua_star/xinhua_data
+xinhua_star/xinhua_data_json
+.idea
+*.html
+dataset
+
+
 # C extensions
 *.so
 
